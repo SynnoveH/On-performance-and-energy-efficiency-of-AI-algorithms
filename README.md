@@ -15,3 +15,10 @@ Find three processed datasets used for writing thesis in Datasets/For report:
 ### Results results_main_epoch1_epoch10.csv contains:
 
 - Running configurations for 10 epochs in CIFAR100 with per epoch-monitoring. These are the datapoints used in plots in Results
+
+# Licence
+
+Third-party code:
+
+- [OTDD](https://github.com/microsoft/otdd) — MIT License
+- [DEFT](https://github.com/IBM/DEFT) — Apache 2.0 License
