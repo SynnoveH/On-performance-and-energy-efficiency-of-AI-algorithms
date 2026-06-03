@@ -1,6 +1,7 @@
 # Modified from original source: https://github.com/IBM/DEFT
 # Original code licensed under Apache License 2.0
 
+# This code builds on DEFT/GLUE/adapter.py
 # Changes:
 #   - Added CodeCarbon EmissionsTracker for energy tracking
 #   - Replaced text/GLUE task with image classification (CIFAR10/CIFAR100)
