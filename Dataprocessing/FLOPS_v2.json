@@ -1,0 +1,20 @@
+{
+  "vit_b_16": {
+    "FLOPS_fvcore": 17262805008
+  },
+  "vit_b_32": {
+    "FLOPS_fvcore": 4398947904
+  },
+  "vit_l_32": {
+    "FLOPS_fvcore": 15382805008
+  },
+  "vit_small_patch32_224": {
+    "FLOPS_fvcore": 1137790752
+  },
+  "vit_small_patch16_224": {
+    "FLOPS_fvcore": 4448370696
+  },
+  "vit_tiny_patch16_224": {
+    "FLOPS_fvcore": 1178427396
+  }
+}
