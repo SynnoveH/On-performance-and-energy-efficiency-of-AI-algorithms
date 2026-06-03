@@ -16,7 +16,7 @@ Find three processed datasets used for writing thesis in Datasets/For report:
 
 - Running configurations for 10 epochs in CIFAR100 with per epoch-monitoring. These are the datapoints used in plots in Results
 
-# Licence
+# License
 
 Third-party code:
 
