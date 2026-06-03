@@ -1,4 +1,4 @@
-### Results_main_CIFAR100.csv contains main results:
+### Results_main_CIFAR100_v3.csv contains main results:
 
 - Run configuration 10 epochs on CIFAR100. Most configurations ran 15-20 times, the average is taken of each configuration.
 
